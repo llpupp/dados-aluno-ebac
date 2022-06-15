@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Luciano
+-Profissão: Engenheiro Químico --> migrando para Engº QA Software
+-Cidade: Sorocaba - SP
+-O que faz nas horas vagas: Ando de moto, bike e passeio com filhos
+-Feedback sobre o curso Qualidade de Software: Muito legal e com alto nível
+-Feedback sobre a plataforma de estudo da EBAC: Aulas muito boas
 
 Obrigado!!!
 
